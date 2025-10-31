@@ -194,7 +194,7 @@ This project is distributed under the MIT license. See the `LICENSE` file for de
 
 <div align="center">
 
-**Made with ❤️ for the Lumi community**
+**Made with ❤️ for the [Lumi](https://discord.gg/HkTnrkUySJ)** community
 
 [⬆ Back to Top](#-combatcooldown-plugin)
 
