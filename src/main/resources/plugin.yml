@@ -1,0 +1,14 @@
+name: CombatCooldown
+main: ru.GamerPlay3975.combatcooldown.CombatCooldown
+version: "1.0.0"
+api: ["1.0.0"]
+author: Merged
+
+depend: [DGuard]
+
+permissions:
+  combatcooldown.bypass:
+    description: "Allows bypassing combat cooldown restrictions"
+    default: false
+
+
