@@ -119,7 +119,7 @@ text-bar: "§l§c⚠ COMBAT MODE §r§7| §f%enemy% §7| Remaining: §a%seconds%
 
 ### Quick Setup
 
-1. **Download** the latest version from the [Releases](https://github.com/your-username/CombatCooldown/releases) section
+1. **Download** the latest version from the [Releases](https://github.com/GamerPlay3975/CombatCooldown-Lumi/releases) section
 2. **Place** the `CombatCooldown.jar` file into your server's `plugins` folder
 3. **Restart** your server to load the plugin
 4. **(Optional)** Install the [DGuard](https://github.com/qPexLegendary/DGuard-Nukkit) plugin for region-based combat control
